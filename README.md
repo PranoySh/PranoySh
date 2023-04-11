@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PranoySh
-- 👀 I’m interested in - Test Automation, App Development, Blockchain...
-- 🌱 I’m currently learning - App Development
+- 👀 I’m interested in - Test Automation, App Development, Trading
+- 🌱 I’m currently learning - Algo Trading
 - 💞️ I’m looking to collaborate on - Test Frameworks
 - 📫 How to reach me ... pranoy.shit@gmail.com
 
